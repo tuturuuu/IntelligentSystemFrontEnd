@@ -24,10 +24,10 @@ forecast_files = {
 
 # Define metrics for each company
 metrics = {
-    "Apple": {"MAE": 2.23, "RMSE": 3.07, "MAPE": 1.30},
-    "Amazon": {"MAE": 3.15, "RMSE": 4.52, "MAPE": 1.75},
-    "Microsoft": {"MAE": 1.98, "RMSE": 2.89, "MAPE": 1.12},
-    "Google": {"MAE": 2.76, "RMSE": 3.85, "MAPE": 1.50}
+    "Apple": {"MAE": 2.15, "RMSE": 2.95, "MAPE": 1.07},
+    "Amazon": {"MAE": 2.45, "RMSE": 3.3, "MAPE": 1.34},
+    "Microsoft": {"MAE": 3.98, "RMSE": 5.3, "MAPE": 0.96},
+    "Google": {"MAE": 2.04, "RMSE": 3.01, "MAPE": 1.26}
 }
 
 # Dropdown for stock selection (same for historical & forecast)
